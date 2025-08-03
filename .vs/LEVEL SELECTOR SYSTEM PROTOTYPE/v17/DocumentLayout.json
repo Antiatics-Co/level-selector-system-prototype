@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Aidan\\Documents\\level-selector-system-prototype\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D0679518-2951-4F83-9CA5-F58A6FF8CA0A}|Level Selector System Prototype.csproj|c:\\users\\aidan\\documents\\level-selector-system-prototype\\levelselector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0679518-2951-4F83-9CA5-F58A6FF8CA0A}|Level Selector System Prototype.csproj|solutionrelative:levelselector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0679518-2951-4F83-9CA5-F58A6FF8CA0A}|Level Selector System Prototype.csproj|c:\\users\\aidan\\documents\\level-selector-system-prototype\\global.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0679518-2951-4F83-9CA5-F58A6FF8CA0A}|Level Selector System Prototype.csproj|solutionrelative:global.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Global.cs",
+              "DocumentMoniker": "C:\\Users\\Aidan\\Documents\\level-selector-system-prototype\\Global.cs",
+              "RelativeDocumentMoniker": "Global.cs",
+              "ToolTip": "C:\\Users\\Aidan\\Documents\\level-selector-system-prototype\\Global.cs",
+              "RelativeToolTip": "Global.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-01T14:06:42.876Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LevelSelector.cs",
+              "DocumentMoniker": "C:\\Users\\Aidan\\Documents\\level-selector-system-prototype\\LevelSelector.cs",
+              "RelativeDocumentMoniker": "LevelSelector.cs",
+              "ToolTip": "C:\\Users\\Aidan\\Documents\\level-selector-system-prototype\\LevelSelector.cs",
+              "RelativeToolTip": "LevelSelector.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-01T14:07:42.763Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

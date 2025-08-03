@@ -1,0 +1,17 @@
+[gd_scene format=3 uid="uid://c6f0js8rh4tm7"]
+
+[node name="HBoxContainer2" type="HBoxContainer"]
+offset_left = 1.0
+offset_top = 187.0
+offset_right = 480.0
+offset_bottom = 239.0
+
+[node name="Previous" type="Button" parent="."]
+layout_mode = 2
+size_flags_horizontal = 3
+text = "Play"
+
+[node name="Play" type="Button" parent="."]
+layout_mode = 2
+size_flags_horizontal = 3
+text = "Next"

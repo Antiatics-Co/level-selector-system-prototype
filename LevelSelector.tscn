@@ -1,0 +1,57 @@
+[gd_scene load_steps=3 format=3 uid="uid://c0ld8r7leydfc"]
+
+[ext_resource type="Script" uid="uid://bytqxae3huwb2" path="res://LevelSelector.cs" id="1_id2w8"]
+[ext_resource type="Texture2D" uid="uid://cm8nfuynyc1bc" path="res://tileset.png" id="1_n3jan"]
+
+[node name="Control" type="Control"]
+layout_mode = 3
+anchors_preset = 15
+anchor_right = 1.0
+anchor_bottom = 1.0
+grow_horizontal = 2
+grow_vertical = 2
+script = ExtResource("1_id2w8")
+
+[node name="Panel" type="Panel" parent="."]
+layout_mode = 1
+anchors_preset = 15
+anchor_right = 1.0
+anchor_bottom = 1.0
+grow_horizontal = 2
+grow_vertical = 2
+
+[node name="TextureRect" type="TextureRect" parent="Panel"]
+texture_filter = 1
+layout_mode = 0
+offset_right = 481.0
+offset_bottom = 241.0
+texture = ExtResource("1_n3jan")
+
+[node name="HBoxContainer" type="HBoxContainer" parent="Panel"]
+layout_mode = 0
+offset_left = 1.0
+offset_top = 186.0
+offset_right = 481.0
+offset_bottom = 240.0
+
+[node name="Previous" type="Button" parent="Panel/HBoxContainer"]
+unique_name_in_owner = true
+layout_mode = 2
+size_flags_horizontal = 3
+action_mode = 0
+text = "Previous"
+
+[node name="Play" type="Button" parent="Panel/HBoxContainer"]
+unique_name_in_owner = true
+layout_mode = 2
+size_flags_horizontal = 3
+action_mode = 0
+text = "Play
+"
+
+[node name="Next" type="Button" parent="Panel/HBoxContainer"]
+unique_name_in_owner = true
+layout_mode = 2
+size_flags_horizontal = 3
+action_mode = 0
+text = "Next"
